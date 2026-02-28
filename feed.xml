@@ -3,12 +3,123 @@
     <title>KUAN</title>
     <link href="https://spapa123.github.io/feed.xml" rel="self" />
     <link href="https://spapa123.github.io" />
-    <updated>2026-02-27T17:19:55+08:00</updated>
+    <updated>2026-02-28T19:36:14+08:00</updated>
     <author>
         <name>Kuan</name>
     </author>
     <id>https://spapa123.github.io</id>
 
+    <entry>
+        <title>Flower</title>
+        <author>
+            <name>Kuan</name>
+        </author>
+        <link href="https://spapa123.github.io/flower.html"/>
+        <id>https://spapa123.github.io/flower.html</id>
+        <media:content url="https://spapa123.github.io/media/posts/16/Lan-Hua.png" medium="image" />
+            <category term="3D"/>
+
+        <updated>2026-02-28T19:36:08+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://spapa123.github.io/media/posts/16/Lan-Hua.png" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Scene</title>
+        <author>
+            <name>Kuan</name>
+        </author>
+        <link href="https://spapa123.github.io/scene.html"/>
+        <id>https://spapa123.github.io/scene.html</id>
+        <media:content url="https://spapa123.github.io/media/posts/15/Chang-Jing-She-Ji-Gu-Dao.png" medium="image" />
+            <category term="3D"/>
+
+        <updated>2026-02-28T19:35:43+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://spapa123.github.io/media/posts/15/Chang-Jing-She-Ji-Gu-Dao.png" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Dancing</title>
+        <author>
+            <name>Kuan</name>
+        </author>
+        <link href="https://spapa123.github.io/dancing.html"/>
+        <id>https://spapa123.github.io/dancing.html</id>
+        <media:content url="https://spapa123.github.io/media/posts/14/Deng-Hui-2.png" medium="image" />
+            <category term="3D"/>
+
+        <updated>2026-02-28T19:32:16+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://spapa123.github.io/media/posts/14/Deng-Hui-2.png" alt="" />
+                    Rigging、Modeling
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://spapa123.github.io/media/posts/14/Deng-Hui-2.png" class="type:primaryImage" alt="" /></p>
+                <div><div class="post__iframe"><iframe loading="lazy" width="1027" height="578" src="https://www.youtube-nocookie.com/embed/wEcx6JxzTIo" title="新竹燈會AR動畫" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div></div>
+
+    <h2 id="riggingmodeling">
+      Rigging、Modeling
+    </h2>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Opening</title>
+        <author>
+            <name>Kuan</name>
+        </author>
+        <link href="https://spapa123.github.io/opening.html"/>
+        <id>https://spapa123.github.io/opening.html</id>
+        <media:content url="https://spapa123.github.io/media/posts/13/Kai-Chang.png" medium="image" />
+            <category term="3D"/>
+
+        <updated>2026-02-28T19:28:56+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://spapa123.github.io/media/posts/13/Kai-Chang.png" class="type:primaryImage" alt="" /></p>
+                <div><div class="post__iframe"><iframe loading="lazy" width="1027" height="578" src="https://www.youtube-nocookie.com/embed/p4munbnLnAU" title="展覽開頭動畫" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Farm</title>
+        <author>
+            <name>Kuan</name>
+        </author>
+        <link href="https://spapa123.github.io/farm.html"/>
+        <id>https://spapa123.github.io/farm.html</id>
+        <media:content url="https://spapa123.github.io/media/posts/12/Nong-Chang.png" medium="image" />
+            <category term="Archviz"/>
+            <category term="3D"/>
+
+        <updated>2026-02-28T19:05:17+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://spapa123.github.io/media/posts/12/Nong-Chang.png" class="type:primaryImage" alt="" /></p>
+                <div><div class="post__iframe"><iframe loading="lazy" width="1027" height="578" src="https://www.youtube-nocookie.com/embed/ruOPWt3elP8" title="休閒農場3D視覺化" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Otter</title>
         <author>
@@ -19,6 +130,7 @@
         <media:content url="https://spapa123.github.io/media/posts/11/seaotter.png" medium="image" />
             <category term="Character"/>
             <category term="3D"/>
+            <category term="2D"/>
 
         <updated>2026-02-27T17:19:55+08:00</updated>
             <summary></summary>
@@ -89,6 +201,7 @@
         <media:content url="https://spapa123.github.io/media/posts/7/shark-2.png" medium="image" />
             <category term="Character"/>
             <category term="3D"/>
+            <category term="2D"/>
 
         <updated>2026-02-27T15:23:16+08:00</updated>
             <summary></summary>
@@ -112,6 +225,7 @@
         <media:content url="https://spapa123.github.io/media/posts/6/rabbit.png" medium="image" />
             <category term="Character"/>
             <category term="3D"/>
+            <category term="2D"/>
 
         <updated>2026-02-27T15:21:26+08:00</updated>
             <summary></summary>
